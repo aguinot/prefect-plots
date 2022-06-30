@@ -1,1 +1,1 @@
-Store plots frrom prefect pipeline.
+Store validation plots from prefect pipeline
